@@ -3,40 +3,20 @@
 Kraftom Jungle 301 <br/>
 알고리즘 스터디입니다.
 
-<br/>
-<br/>
-
-- [Algorithm Study hi-po](#algorithm-study-hi-po)
-  - [1. 스터디 소개](#1-스터디-소개)
-  - [2. 구성원](#2-구성원)
-  - [3. 저장소 규칙](#3-저장소-규칙)
-    - [1) 파일이름 규칙](#1-파일이름-규칙)
-    - [2) Commit message 규칙](#2-commit-message-규칙)
-  - [4. 스터디 내용](#4-스터디-내용)
-    - [0) 기초문제 (Basic Problems) / 01.13 ~ 01.25](#0-기초문제-basic-problems--0113--0125)
-    - [1) 자료구조 (Data Structure) / 02.01, 02.06](#1-자료구조-data-structure--0201-0206)
-    - [2) 너비우선탐색 \& 깊이우선탐색 (BFS \& DFS) / 02.09, 02.13](#2-너비우선탐색--깊이우선탐색-bfs--dfs--0209-0213)
-    - [3) 재귀 (Recursion) / 02.16](#3-재귀-recursion--0216)
-    - [4) 정렬 (Sort) / 02.20](#4-정렬-sort--0220)
-    - [5) 동적계획법 (Dynamic Programming) / 02.23](#5-동적계획법-dynamic-programming--0223)
-    - [6) 그리디 (Greedy) / 02.27](#6-그리디-greedy--0227)
-    - [7) 이진탐색 (Binary Search) / 03.02](#7-이진탐색-binary-search--0302)
-    - [8) 이진탐색 (Two Pointer) / 03.07](#8-이진탐색-two-pointer--0307)
-    - [9) 해시 (Hash) / 03.14](#9-해시-hash--0314)
-    - [10) 이진검색트리 (Binary Search Tree) / 03.21](#10-이진검색트리-binary-search-tree--0321)
-    - [11) 백트래킹 (Back Tracking) / 03.29](#11-백트래킹-back-tracking--0329)
-    - [12) 그래프 (Graph) / 04.05](#12-그래프-graph--0405)
-  - [5. 참고자료](#5-참고자료)
-
 
 <br/>
 <br/>
 
 ## 1. 스터디 소개
 
-알고리즘 개념학습과 문제풀이를 진행합니다.  <br/>
-매일 모여 _알고리즘_ 을 공부합니다. <br/>
+매일 모여 _알고리즘_ 을 공부<br/>
+몰입 유지 및 알고리즘 감각익히기<br/>
 
+- 스터디 시간에 문제 풀고 풀이 공유 (난이도에 따라 시간 변동 30분~1시간) 
+- 코드리뷰
+- 돌아가며 주제 발제
+- 다음날까지 코드 리뷰 comment 남기기
+ 
 
 <br/>
 <br/>
@@ -45,8 +25,8 @@ Kraftom Jungle 301 <br/>
 
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/mingdul"><img src="https://avatars.githubusercontent.com/mingdul" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=syu" widt="100px"><br /><sub><b>장지민</b></sub></a><br /></td>
     <td align="center"><a href=https://github.com/NewOld21><img src="https://avatars.githubusercontent.com/u/101312787?v=4?v=4?s=100" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=leox97" widt="100px"><br /><sub><b>김세헌</b></sub></a><br /></td>    
-    <td align="center"><a href="https://github.com/mingdul"><img src="https://avatars.githubusercontent.com/u/82228797?v=4?s=100" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=syu" widt="100px"><br /><sub><b>장지민</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/SECHANG1412"><img src="https://avatars.githubusercontent.com/u/72199470?v=4" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yssg9187" widt="100px"><br /><sub><b>이세창</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/hjun813"><img src="https://avatars.githubusercontent.com/u/111677826?v=4?s=100" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=simbaba" widt="100px"><br /><sub><b>김현준</b></sub></a><br /></td>     
   </tr>
@@ -68,7 +48,7 @@ BOJ_1234_제목 (약어_문제번호_제목)
 | 약어 | 문제 사이트                                      |
 | ---- | ------------------------------------------------ |
 | BOJ  | [Baekjoon Online Judge](https://www.acmicpc.net) |
-| SWEA | [SW Expert Academy](https://swexpertacademy.com) |
+
 
 <br/>
 
@@ -97,127 +77,55 @@ Add: 03_재귀_chai (Add: 문제분류 + 브랜치)
 
 ## 4. 스터디 내용
 
-### 0) 기초문제 (Basic Problems) / 01.13 ~ 01.25
-  - [백준에서 가장 많이 풀린 문제 TOP 100 (입문자 추천)](https://www.acmicpc.net/workbook/view/2435)
+### 0) 기초문제 (Basic Problems) 
 
 <br/>
 
 
-### 1) 자료구조 (Data Structure) / 02.01, 02.06
-  - [1406번: 에디터](https://www.acmicpc.net/problem/1406)
-  - [1874번: 스택 수열](https://www.acmicpc.net/problem/1874)
-  - [2346번: 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
+### 1) 자료구조 (Data Structure) 
 
 <br/>
 
-### 2) 너비우선탐색 & 깊이우선탐색 (BFS & DFS) / 02.09, 02.13
-  - [1926번: 그림](https://www.acmicpc.net/problem/1926)
-  - [2178번: 미로탐색](https://www.acmicpc.net/problem/2178)
-  - [7576번: 토마토](https://www.acmicpc.net/problem/7576)
-  - [1012번: 유기농 배추](https://www.acmicpc.net/problem/1012)
-  - [1260번: DFS와 BFS](https://www.acmicpc.net/problem/1260)
-  - [4179번: 불!](https://www.acmicpc.net/problem/4179)
-  - [1697번: 숨바꼭질](https://www.acmicpc.net/problem/1697)
-  - [7569번: 토마토](https://www.acmicpc.net/problem/7569)
-  - [2206번: 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+### 2) 너비우선탐색 & 깊이우선탐색 (BFS & DFS) 
+<br/>
+
+### 3) 재귀 (Recursion)
 
 <br/>
 
-### 3) 재귀 (Recursion) / 02.16
-  - [1629번: 곱셈](https://www.acmicpc.net/problem/1629)
-  - [11729번: 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
-  - [17478번: 재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)
-  - [2447번 - 별 찍기 - 10](https://www.acmicpc.net/problem/2447)
-
-<br/>
-
-### 4) 정렬 (Sort) / 02.20
-  - [2751번:	수 정렬하기 2](https://www.acmicpc.net/problem/2751)
-  - [10989번:	수 정렬하기 3](https://www.acmicpc.net/problem/10989)
-  - [15688번:	수 정렬하기 5](https://www.acmicpc.net/problem/15688)
-  - [10814번: 나이순 정렬](https://www.acmicpc.net/problem/10814)
-  - [1431번: 시리얼 번호](https://www.acmicpc.net/problem/1431)
-  - [5648번: 역원소 정렬](https://www.acmicpc.net/problem/5648)
-  - [1181번: 단어 정렬](https://www.acmicpc.net/problem/1181) 
-  - [7795번: 먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795)
+### 4) 정렬 (Sort) 
 
  <br/>
 
-### 5) 동적계획법 (Dynamic Programming) / 02.23
-  - [1149번: RGB거리](https://www.acmicpc.net/problem/1149)
-  - [12852번: 1로 만들기 2](https://www.acmicpc.net/problem/12852)
-  - [11055번: 가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)
-  - [9251번: LCS](https://www.acmicpc.net/problem/9251)
-  - [11726번: 2×n 타일링](https://www.acmicpc.net/problem/11726)
-  - [11727번: 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
-  - [11057번: 오르막 수](https://www.acmicpc.net/problem/11057)
+### 5) 동적계획법 (Dynamic Programming) 
 
 <br/>
 
-### 6) 그리디 (Greedy) / 02.27
-  - [1931번: 회의실 배정](https://www.acmicpc.net/problem/1931)
-  - [11399번: ATM](https://www.acmicpc.net/problem/11399)
-  - [2170번: 선 긋기](https://www.acmicpc.net/problem/2170)
-  - [11501번: 주식](https://www.acmicpc.net/problem/11501)
-  - [8980번: 택배](https://www.acmicpc.net/problem/8980)
-  - [1700번: 멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
+### 6) 그리디 (Greedy)
 
 <br/>
 
-### 7) 이진탐색 (Binary Search) / 03.02
-  - [2295번: 세 수의 합](https://www.acmicpc.net/problem/2295)
-  - [1253번: 좋다](https://www.acmicpc.net/problem/1253)
-  - [2110번: 공유기 설치](https://www.acmicpc.net/problem/2110)
+### 7) 이진탐색 (Binary Search)
 
 <br/>
 
-### 8) 이진탐색 (Two Pointer) / 03.07
-  - [2230번: 수 고르기](https://www.acmicpc.net/problem/2230)
-  - [1806번: 부분합](https://www.acmicpc.net/problem/1806)
-  - [2003번: 수들의 합 2](https://www.acmicpc.net/problem/2003)
+### 8) 이진탐색 (Two Pointer)
 
 <br/>
 
-### 9) 해시 (Hash) / 03.14
-  - [7785번: 회사에 있는 사람](https://www.acmicpc.net/problem/7785)
-  - [1620번: 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
-  - [13414번: 수강신청](https://www.acmicpc.net/problem/13414)
-  - [17219번: 비밀번호 찾기](https://www.acmicpc.net/problem/17219)
-  - [9375번: 패션왕 신해빈](https://www.acmicpc.net/problem/9375)
+### 9) 해시 (Hash)
 
 <br/>
 
-### 10) 이진검색트리 (Binary Search Tree) / 03.21
-  - [7662번: 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
-  - [1202번: 보석 도둑](https://www.acmicpc.net/problem/1202)
-  - [21939번: 문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939)
-  - [23326번: 홍익 투어리스트](https://www.acmicpc.net/problem/23326)
-  - [1539번: 이진 검색 트리](https://www.acmicpc.net/problem/1539)
+### 10) 이진검색트리 (Binary Search Tree)
 
 <br/>
 
-### 11) 백트래킹 (Back Tracking) / 03.29
-  - [15649번: N과 M (1)](https://www.acmicpc.net/problem/15649)
-  - [9663번: N-Queen](https://www.acmicpc.net/problem/9663)
-  - [1182번: 부분수열의 합](https://www.acmicpc.net/problem/1182)
-  - [15650번: N과 M (2)](https://www.acmicpc.net/problem/15650)
-  - [15651번: N과 M (3)](https://www.acmicpc.net/problem/15651)
-  - [15652번: N과 M (4)](https://www.acmicpc.net/problem/15652)
-  - [15663번: N과 M (9)](https://www.acmicpc.net/problem/15663)
-  - [1941번: 소문난 칠공주](https://www.acmicpc.net/problem/1941)
-
+### 11) 백트래킹 (Back Tracking)
 
 <br/>
 
-### 12) 그래프 (Graph) / 04.05
-  - [1260번: DFS와 BFS](https://www.acmicpc.net/problem/1260)
-  - [2606번: 바이러스](https://www.acmicpc.net/problem/2606)
-  - [5567번: 결혼식](https://www.acmicpc.net/problem/5567)
-  - [11403번: 경로 찾기](https://www.acmicpc.net/problem/11403)
-  - [2660번: 회장뽑기](https://www.acmicpc.net/problem/2660)
-  - [5214번: 환승](https://www.acmicpc.net/problem/5214)
-  - [1389번: 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)
-
+### 12) 그래프 (Graph)
 <br/>
 <br/>
 

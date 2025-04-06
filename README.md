@@ -26,9 +26,9 @@ Kraftom Jungle 301 <br/>
 <table>
   <tr>
     <td align="center"><a href="https://github.com/mingdul"><img src="https://avatars.githubusercontent.com/mingdul" width="100px;" alt=""/><sub><b>장지민</b></sub></a><br /></td>
-    <td align="center"><a href=https://github.com/NewOld21><img src="https://avatars.githubusercontent.com/NewOld21" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=leox97" widt="100px"><br /><sub><b>김세헌</b></sub></a><br /></td>    
-    <td align="center"><a href="https://github.com/SECHANG1412"><img src="https://avatars.githubusercontent.com/SECHANG1412" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yssg9187" widt="100px"><br /><sub><b>이세창</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/hjun813"><img src="https://avatars.githubusercontent.com/hjun813" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=simbaba" widt="100px"><br /><sub><b>김현준</b></sub></a><br /></td>     
+    <td align="center"><a href=https://github.com/NewOld21><img src="https://avatars.githubusercontent.com/NewOld21" width="100px;" alt=""/><sub><b>김세헌</b></sub></a><br /></td>    
+    <td align="center"><a href="https://github.com/SECHANG1412"><img src="https://avatars.githubusercontent.com/SECHANG1412" width="100px;" alt=""/><sub><b>이세창</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/hjun813"><img src="https://avatars.githubusercontent.com/hjun813" width="100px;" alt=""/><sub><b>김현준</b></sub></a><br /></td>     
   </tr>
 </table>
 

@@ -13,14 +13,8 @@ G=[list(map(int,input().split())) for _ in range(n)]
 for k in range(n):          # 중간
     for i in range(n):      # 출발
         for j in range(n):  # 도착
-            
+            if G[i][k] == 1 and G[k][j] == 1: 
+                G[i][j] = 1
 
-            
-            # G[i][j] = min(G[i][j], G[i][k] + G[k][j])
-
-            # G[i][j] 출발-도착
-            # G[i][k] 출발-중간
-            # G[k][j] 중간-도착
-
-            # G[i][k]=G[k][j] ??
-            # G[i][j]
+for i in range(n):
+    print(*G[i])
